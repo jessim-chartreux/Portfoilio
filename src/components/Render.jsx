@@ -1,6 +1,6 @@
 import React from 'react';
 // import '../App.css'; 
-import CV_Jessim from './CV_Jessim.pdf';
+import CV_Jessim from 'CV_Jessim.pdf';
 import Cvhead from './Cvhead';
 
 function Render() {
