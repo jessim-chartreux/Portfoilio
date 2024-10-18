@@ -13,7 +13,7 @@ const Header = () => {
       <div className="link-right-container">
         <a href="https://discord.gg/" target="_blank" rel="noopener noreferrer">Discord</a>
         <NavLink to="/Render" target="_blank" activeClassName="active">CV</NavLink>
-        <a href="/Render"> CVV</a>
+        <a href="https://drive.google.com/file/d/1q-3VSytSwTf2hNvqhMvq9CKbRxOQ_2Ul/view?usp=sharing"> CVV</a>
         <NavLink to="/Contact" activeClassName="active">Contact</NavLink>
       </div>
     </header>
