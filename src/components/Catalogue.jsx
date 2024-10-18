@@ -10,8 +10,7 @@ function Catalogue() {
     {
       name: 'Prixy',
       description: 'Prixy est une application de reservation de salle en ligne, elle permet de reserver une salle de réunion en ligne.',
-      time: '1200',
-      imageUrl: 'https://cdn.discordapp.com/attachments/1129209624810242078/1251486786719453305/logo.png?ex=666ec165&is=666d6fe5&hm=96f382afa68215f2e779712a53e47af20fa1fab249d1fe50e4bdd7ecec11f050&',
+      time: '1200https://cdn.discordapp.com/attachments/1129209624810242078/1251486786719453305/logo.png?ex=67138ce5&is=67123b65&hm=56db2b614b7e57acffd6b4a7fe040a523109891e1b3365b2f49fe7804bb6db36&',
       link: 'https://github.com/JESSIM-lua/prixy2.0'
     },
     {
