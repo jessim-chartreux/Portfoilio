@@ -31,7 +31,7 @@ function Catalogue() {
     {
       name: 'Developpement Présence en ligne',
       description: 'Projet de Developpement Présence en ligne.',
-      time: '1200',
+      time: '50',
       imageUrl: 'https://th.bing.com/th/id/OIP.Sh5eb3UeiQaoHr6uMXVhDwHaHa?w=165&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7',
       link: 'https://drive.google.com/file/d/1PM6UnRm8_SiXMW5XL0cVOHti5zS8hOk1/view?usp=sharing'
     },
